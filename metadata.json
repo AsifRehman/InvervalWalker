@@ -1,0 +1,5 @@
+{
+  "name": "Interval Walker AI",
+  "description": "A smart interval training application for walking, featuring alternating 3-minute slow and fast walk cycles with audio feedback and AI-powered motivation.",
+  "requestFramePermissions": []
+}
